@@ -132,7 +132,7 @@ Return concise markdown with these headings:
 ## Improved Draft
 Keep the improved draft under 600 words.
 ## Notes for Next Section
-Keep the whole response under 1200 words.
+Keep the whole response under 2000 words.
 """.strip()
 
         output = self.researcher.invoke(prompt)

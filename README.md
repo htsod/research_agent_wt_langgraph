@@ -67,7 +67,7 @@ LLM_MODEL=local-model
 LLM_TEMPERATURE=0.2
 ```
 
-Installation
+## Installation
 
 Create and activate a virtual environment, then install dependencies:
 
